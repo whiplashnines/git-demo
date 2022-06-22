@@ -16,4 +16,4 @@ hello whiplash! hello git!
 hello whiplash! hello git!
 hello whiplash! hello git!
 hello whiplash! hello git!
-hello whiplash! hello git!
+hello whiplash! hello git! hot-fix test
